@@ -34,6 +34,4 @@ printSummary(drink);
 
 
 
-// Converting the block of code to a js module in order to
-// avoid name errors conflicting with same name in other files.
 export default {};
